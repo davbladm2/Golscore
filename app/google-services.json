@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753427224494",
+    "firebase_url": "https://golscore-15b7b.firebaseio.com",
+    "project_id": "golscore-15b7b",
+    "storage_bucket": "golscore-15b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753427224494:android:f9d0c041eeff46a2",
+        "android_client_info": {
+          "package_name": "com.example.dm2.golscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753427224494-nrvhdsvf043dpjd140npqc088kmfe3sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dm2.golscore",
+            "certificate_hash": "756ca6ecf719e815eb7417850ad66aa8ea2d00a8"
+          }
+        },
+        {
+          "client_id": "753427224494-ajkcf725ltofvd10j09selepphefe1ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5p57zAd_nDFxGr8G0MgWA96LQ2WnRIis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753427224494-ajkcf725ltofvd10j09selepphefe1ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
